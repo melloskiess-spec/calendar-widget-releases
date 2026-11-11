@@ -1,8 +1,8 @@
-version: 1.6.1
+version: 1.6.2
 files:
-  - url: CalendarWidget-Setup-1.6.1.exe
-    sha512: Ev5pGqcwGdxOq0o5rLS837XZU6qdGVK1ONE8AtrEFsrgXarf4CA7EbeU+dMCIAEldGsRwGEC542qWG5xKZNSvg==
-    size: 82271266
-path: CalendarWidget-Setup-1.6.1.exe
-sha512: Ev5pGqcwGdxOq0o5rLS837XZU6qdGVK1ONE8AtrEFsrgXarf4CA7EbeU+dMCIAEldGsRwGEC542qWG5xKZNSvg==
-releaseDate: '2026-11-11T10:35:08.448Z'
+  - url: CalendarWidget-Setup-1.6.2.exe
+    sha512: +lx3uSvE1cZyP7r6rhFU3ZGveevtZ6U+7oUPKfA0b4GWjrBfUFAD8r0K8BE5lFmk+ILeWX9IZHHpOtkfQNi9vw==
+    size: 82271828
+path: CalendarWidget-Setup-1.6.2.exe
+sha512: +lx3uSvE1cZyP7r6rhFU3ZGveevtZ6U+7oUPKfA0b4GWjrBfUFAD8r0K8BE5lFmk+ILeWX9IZHHpOtkfQNi9vw==
+releaseDate: '2026-11-11T10:39:20.593Z'
